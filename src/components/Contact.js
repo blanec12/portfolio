@@ -7,9 +7,8 @@ export default function Contact() {
             <MailIcon className="mx-auto w-10 mb-4 text-center mt-10"/>
             <h1 className="title-font font-medium text-white text-3xl text-center mb-4">Contact</h1>
             <p className="lg:w-2/3 mx-auto leading-relaxed text-center mb-10">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-                facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-                fuga dolore.
+                I am interested in part-time freelance opportunties. Please leave a message below
+                if you have a question or you'd like to work together. I'd love to hear from you!
             </p>
             <div className="container mx-auto text-right m-4">
                 <form>
