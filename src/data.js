@@ -1,4 +1,4 @@
-import stockImg from "./img/code_stckimg.jpg";
+import stockImg from "./images/code_stckimg.jpg";
 
 export const skills = [
   {
