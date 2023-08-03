@@ -13,7 +13,7 @@ export default function Hero() {
           </p>
           <div className="my-3">
             <a
-              className="btn btn-success btn-lg me-2"
+              className="btn btn-success btn-lg me-2 mb-2 mb-md-0"
               role="button"
               href="#projects"
             >
