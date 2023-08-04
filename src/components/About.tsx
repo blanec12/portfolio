@@ -8,14 +8,14 @@ export default function About() {
           <ul className="timeline fs-5">
             <li>
               <p className="fw-bold">
-                (2016 - 2019) - Same Houston State University
+                (2016 - 2019) - Sam Houston State University
               </p>
               <p>
                 I first discovered my love for computer science while working
                 toward my Bachelor's degree at SHSU. It was here that I learned
                 the fundamentals of computing, networking, programming and the
                 like. During my studies my mind was filled with endless
-                possiblities as I was introduced to technologies/frameworks to
+                possiblities as I was introduced to more technologies to
                 add to my arsenal. Although my studies may be done at SHSU, I am
                 striving every day to learn more and improve my craft. Tech
                 moves fast so we must too!
@@ -38,7 +38,7 @@ export default function About() {
                 <br />
                 <br />
                 Shortly thereafter, the company decided to move to a new ERP
-                system. The system they settled on was Acumatica ERP. It was
+                system. The system they settled on was Acumatica. It was
                 this decision that opened the door to me being able to finally
                 use my passion for programming to help the company. I got
                 aquainted with C# and .NET, then got to work customizing our ERP
