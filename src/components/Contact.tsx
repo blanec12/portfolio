@@ -57,7 +57,7 @@ export default function Contact() {
                     >
                       163 Doogieville Loop
                       <br />
-                      Joquin, Texas 75954
+                      Joaquin, Texas 75954
                     </a>
                   </h4>
                 </div>
