@@ -33,8 +33,8 @@ export default function About() {
                 <br />
                 It wasn't long before I transitioned away from helpdesk and
                 became the primary source of reporting for upper management. In
-                this role I became very well versed in technologies such as SQL,
-                SAP Crystal Reports, Tableau, and PowerBi, just to name a few.
+                this role I became very well versed in technologies such as SQL, 
+                Tableau, and PowerBi.
                 <br />
                 <br />
                 Shortly thereafter, the company decided to move to a new ERP
@@ -42,7 +42,7 @@ export default function About() {
                 this decision that opened the door to me being able to finally
                 use my passion for programming to help the company. I got
                 aquainted with C# and .NET, then got to work customizing our ERP
-                based on the companies needs. I now have several customization
+                based on the company's needs. I now have several customization
                 projects under my belt that range from extending/improving
                 existing functionality, to building entirely custom solutions to
                 challenges we have faced.
