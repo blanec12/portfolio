@@ -18,7 +18,7 @@ export default function About() {
                 possiblities as I was introduced to more technologies to
                 add to my arsenal. Although my studies may be done at SHSU, I am
                 striving every day to learn more and improve my craft. Tech
-                moves fast so we must too!
+                moves fast, so we must too!
               </p>
             </li>
             <li>
